@@ -1,7 +1,16 @@
-# Zion Multilingual AI Readiness Checker
+# Multilingual AI Readiness Checker
 
-Score your global AI rollout: language coverage, RTL/formatting, per-language evals, cultural & legal review, fallbacks — 17 checks with a readiness score.
+i18n gap analysis for global AI rollouts — locale coverage, tokenization and cultural fit.
 
 **Live app:** https://ziontechgroup.com/zion-i18n-ai-checker/
 
-Part of the [Zion Tech Group](https://ziontechgroup.com) AI apps network. Sibling apps: [Eval Generator](https://ziontechgroup.com/zion-eval-generator/) · [Data Readiness](https://ziontechgroup.com/zion-data-readiness-audit/) · [Contract Tester](https://ziontechgroup.com/zion-agent-contract-tester/)
+## Features
+- Locale coverage scoring for AI features
+- Tokenization/cost variance across languages
+- Cultural adaptation checklist
+
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related: [Voice Translator](https://github.com/Zion-support/zion-ai-voice-translator) · [Content Translator](https://github.com/Zion-support/ai-content-translator) · [Model Arena](https://github.com/Zion-support/zion-ai-model-arena) · [Accessibility Checker](https://github.com/Zion-support/a11y-checker)
+
+© 2026 Zion Tech Group
